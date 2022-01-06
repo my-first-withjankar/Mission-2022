@@ -2,41 +2,30 @@ body{
     margin: 0;
     padding: 0%;
     font-family: 'Ubuntu', sans-serif;
-   
-    
 }
 .font-color{
     color: rgb(253, 124, 215);
 }
 #color-changed{
     color: rgb(80, 78, 78);
-    
 }
 .h1-font-size{
     font-size: 50px;
-    
 }
 .border-h1{
     border-left: 4px solid rgba(16, 222, 236, 0.849);
 }
-
 .head{
     display: flex;
     width: 80%;
     margin: 0 auto;
-    
-  
 }
 .first-section-part1{
     width: 50%;
-
 }
-
-
 .first-section-part1 p{
     width: 70%
 }
-
 .first-section-part1 img{
     width: 350px;
     padding-left: 70px;
@@ -47,10 +36,7 @@ body{
     background-color: rgb(128, 210, 248);
     border-radius: 4px;
     margin-bottom: 20px;
-   
 }
-
-
 #mission{
     text-align: center;
 }
@@ -65,9 +51,7 @@ body{
     background-color: blanchedalmond;
     padding: 15px;
     border-radius: 20px; 
-
 }
-
 .mission-02{
     width: 20%;
     margin: 2%;
@@ -84,7 +68,6 @@ body{
 }
 div img{
     width: 65%;
-    
 }
 .footer{
     background-color: rgb(121, 117, 117);
@@ -109,8 +92,7 @@ div img{
     background-color: rgb(74, 75, 74);
     padding: 7px 19px;
     color: white;
-    
-}
+    }
 p{
     font-weight: 500;
     font-size: 20px;

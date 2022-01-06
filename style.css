@@ -40,7 +40,7 @@ body{
 }
 .btn:hover{
     color: white ;
-    background-color: blue;
+    background-color: rgb(35, 153, 250);
 }
 #mission{
     text-align: center;
@@ -49,6 +49,9 @@ body{
     display: flex;
     justify-content: center;
     
+}
+.color-mixed{
+    color: rgb(253, 124, 215);
 }
 .mission-01{
     width: 20%;
@@ -75,7 +78,7 @@ div img{
     width: 65%;
 }
 .footer{
-    background-color: rgb(121, 117, 117);
+    background-color: rgb(32, 31, 31);
     text-align: center;
     padding: 5px;
     color: white;

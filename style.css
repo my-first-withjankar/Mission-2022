@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0%;
+   
+    
+}
+.font-color{
+    color: aqua;
+}
+.h1-font-size{
+    font-size: 50px;
+}
+
+.head{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    /* border: 3px solid black; */
+  
+}
+.first-section-part1{
+    width: 50%;
+
+}
+
+.first-section-part1 img{
+    width: 350px;
+    padding-left: 70px;
+}
+.btn{
+    border: none;
+    padding: 10px 20px;
+    background-color: crimson;
+    border-radius: 4px;
+    margin-bottom: 20px;
+   
+}
+/* .space{
+    margin-top: 8px;
+} */
+
+#mission{
+    text-align: center;
+}
+.head-02{
+    display: flex;
+    justify-content: center;
+    
+}
+.mission-01{
+    width: 20%;
+    margin: 2%;
+    /* box-shadow: 10px 10px 40px gray; */
+    background-color: blanchedalmond;
+    padding: 15px;
+    border-radius: 20px;
+    
+}
+div img{
+    width: 100%;
+    
+}

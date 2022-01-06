@@ -36,6 +36,11 @@ body{
     background-color: rgb(128, 210, 248);
     border-radius: 4px;
     margin-bottom: 20px;
+    cursor: pointer;
+}
+.btn:hover{
+    color: white ;
+    background-color: blue;
 }
 #mission{
     text-align: center;

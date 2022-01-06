@@ -6,10 +6,15 @@ body{
     
 }
 .font-color{
-    color: aqua;
+    color: rgb(253, 124, 215);
+}
+#color-changed{
+    color: rgb(121, 117, 117);
+    text-a;
 }
 .h1-font-size{
     font-size: 50px;
+    
 }
 .border-h1{
     border-left: 4px solid orange;
@@ -37,7 +42,7 @@ body{
 .btn{
     border: none;
     padding: 10px 20px;
-    background-color: crimson;
+    background-color: rgb(128, 210, 248);
     border-radius: 4px;
     margin-bottom: 20px;
    
@@ -66,14 +71,14 @@ body{
 .mission-02{
     width: 20%;
     margin: 2%;
-    background-color: rgb(49, 143, 187);
+    background-color: rgb(128, 210, 248);
     padding: 15px;
     border-radius: 20px;  
 }
 .mission-03{
     width: 20%;
     margin: 2%;
-    background-color: rgb(182, 40, 139);
+    background-color: rgb(253, 124, 215);
     padding: 15px;
     border-radius: 20px;  
 }
@@ -82,11 +87,15 @@ div img{
     
 }
 .footer{
-    background-color: black;
+    background-color: rgb(121, 117, 117);
     text-align: center;
     padding: 5px;
     color: white;
 }
-/* #pad{
-    padding-bottom: 100px;
-} */
+.rules{
+    display: flex;
+    justify-content: space-around
+    ;
+    background-image: linear-gradient(white, blanchedalmond);
+    margin-top: 30px;
+}
